@@ -136,6 +136,7 @@
     width: 370px;
     height: 451px;
     margin-top: 50px;
+    align-items: center;
   }
 .first-box {
     background-color: #FBBA77;
@@ -156,3 +157,92 @@
 .sixth-box {
     background-color: #FF8088;
 }
+/* inside the boxses */
+.img-box1{
+    max-width: 100px;
+    width: 100%;
+    height: 99.89px;
+    margin-top: 88px;
+    margin-left: 134px;
+}
+.web {
+    margin-top: 57px;
+    margin-left: 124.6px;
+    margin-bottom: 13.2px;
+    width: 106px;
+    height: 27px;
+    font-size: 22px ;
+    color: #FFFFFF;
+}
+.design {
+
+    margin-top: 48.8px;
+    margin-left: 131.6px;
+    margin-bottom: 13.1px;
+    width: 150px;
+    height: 27px;
+    font-size: 22px ;
+    color: #FFFFFF;
+}
+.P-box {
+    width: 328px;
+    height: 62px;
+    margin-left: 21px ;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.div-read {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    background-color: #FFFFFF;
+    margin-left: 119px;
+    margin-top: 11px;
+    display: flex;
+    Display: flex;
+    Justify-content: center; 
+    Align-items: center; 
+ }
+ .img-box2 {
+     max-width: 100px;
+     width: 100%;
+     max-height: 108.12px;
+     height: 100%;
+     margin-top: 88px;
+     margin-bottom: 48.8px;
+     margin-left: 127.9px;
+ }
+ .img-box3 {
+    max-width: 100px;
+    width: 100%;
+    max-height: 115.34px;
+    height: 100%;
+    margin-top: 88px;
+    margin-bottom: 41.6px;
+    margin-left: 137.5px;
+}
+.img-box4 {
+    max-width: 100px ;
+    width: 100%;
+    max-height: 105.98px;
+    height: 100%;
+    margin-top: 73px;
+    margin-left: 136px;
+}
+.img-box5 {
+    max-width: 100px;
+    width: 100%;
+    max-height:90.43px ;
+    height: 100%;
+    margin-top: 92px;
+    margin-left: 136px;
+}
+.img-box6 {
+     max-width: 100px;
+     width: 100%;
+     max-height: 100px;
+     height: 100%;
+     margin-top: 87px ;
+     margin-left:134.3px ;
+    }
